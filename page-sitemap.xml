@@ -7,14 +7,14 @@
     </url>
     
     <url>
-        <loc>http://yoursite.com/guestbook/</loc>
+        <loc>http://yoursite.com/about-me/</loc>
         <lastmod>2017-03-15T08:15:10.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://yoursite.com/about-me/</loc>
+        <loc>http://yoursite.com/guestbook/</loc>
         <lastmod>2017-03-15T08:15:10.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
